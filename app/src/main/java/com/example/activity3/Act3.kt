@@ -90,4 +90,3 @@ fun ActivitasPertama(modifier: Modifier) {
         }
     }
 }
-
